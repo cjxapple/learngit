@@ -1,0 +1,14 @@
+git clone https://github.com/cjxapple/learngit.git
+git pull
+
+git status
+
+git add 
+
+git commit
+
+git push
+
+git log
+git reflog
+git reset --hard <tag key>
