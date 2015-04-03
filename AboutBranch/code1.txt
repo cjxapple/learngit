@@ -1,4 +1,4 @@
-about branch
+(Modity)this is about branch learning
 1st:finish project the version 1.0
 2nd:realse version 1.0
 3rd:begin project version 2.0
@@ -6,3 +6,5 @@ about branch
 5th:created branch based on realse version 1.0
 6th:finish bugs in this branch,realse version 1.1
 7th:merge this branch to master 
+
+(Add)this code repairs bugs of v1.0-beta1
